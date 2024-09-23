@@ -1,0 +1,1 @@
+# plugins-wp-remove-query-strings-from-static-resources
